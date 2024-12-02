@@ -4,7 +4,7 @@
 
 extra small `xs`
 ```bash
-screen > 0px  &&  screen < 575px
+screen <= 576px
 ```
 
 small `sm`
