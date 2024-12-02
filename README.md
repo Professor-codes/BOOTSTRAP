@@ -2,6 +2,17 @@
 
 ##
 
+$grid-breakpoints: (<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; xs: 0, <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sm: 576px, <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; md: 768px, <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lg: 992px, <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; xl: 1200px, <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; xxl: 1400px <br>
+);
+
+##
+
 extra small `xs`
 ```bash
 screen <= 576px
